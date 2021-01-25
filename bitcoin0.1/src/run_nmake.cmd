@@ -1,0 +1,2 @@
+set INCLUDE=%INCLUDE%;D:\DevNow\wxWidgets-3.1.4\include;D:\DevNow\wxWidgets-3.1.4\include\msvc;D:\DevNow\openssl-OpenSSL_1_1_1\include;D:\DevNow\boost_1_75_0;D:\DevNow\db-18.1.40\build_windows
+nmake /f makefile.vc
